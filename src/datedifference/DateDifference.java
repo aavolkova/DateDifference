@@ -11,14 +11,14 @@ public class DateDifference {
 	 */	
 	public static void main(String[] args) {
 		
-	 	int year1 = 2012;
-	 	int year2 = 2017;
+	 	int year1;
+	 	int year2;
 		
-	 	int month1 = 2;
-	 	int month2 = 2;
+	 	int month1;
+	 	int month2;
 		
-	 	int dayOfMonth1 = 29;
-	 	int dayOfMonth2 = 28;
+	 	int dayOfMonth1;
+	 	int dayOfMonth2;
 	 
 	 	// Create a Scanner object
 	 	Scanner input = new Scanner(System.in);
